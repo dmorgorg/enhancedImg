@@ -7,6 +7,8 @@
   sizes="(min-width:1920px) 1280px, (min-width:1080px) 640px, (min-width:768px) 400px"
 />
 
+<enhanced:img src="./images/2022-08-04-041508.jpg" sizes="min(1280px, 100vw)" />
+
 <style>
   :global(img) {
     width: 100%;
